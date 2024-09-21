@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:5:5-51
+	android:versionCode
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:4:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:7:5-22:19
+	android:label
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.app.MainActivity
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:16:13-36
+	android:configChanges
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:14:13-59
+	android:name
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:15:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		ADDED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edilson/Projetos/Direct-Instagram/app/src/main/AndroidManifest.xml

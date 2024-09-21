@@ -1,0 +1,8 @@
+com.example.app:drawable/ic_launcher_background = 0x7f060000
+com.example.app:mipmap/ic_launcher_round = 0x7f030002
+com.example.app:style/AppTheme = 0x7f050000
+com.example.app:layout/activity_main = 0x7f020000
+com.example.app:string/app_name = 0x7f040000
+com.example.app:mipmap/ic_launcher = 0x7f030000
+com.example.app:mipmap/ic_launcher_foreground = 0x7f030001
+com.example.app:id/activity_main_webview = 0x7f010000
